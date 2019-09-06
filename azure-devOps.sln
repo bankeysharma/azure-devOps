@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-api-library", "web-api-library\web-api-library.csproj", "{9DD64D08-0B5E-408B-A114-1FCD34DF96B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-api-library-test", "web-api-library-test\web-api-library-test.csproj", "{840D6CC3-F862-44B0-8E0C-C3DEDB80E431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD64D08-0B5E-408B-A114-1FCD34DF96B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD64D08-0B5E-408B-A114-1FCD34DF96B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD64D08-0B5E-408B-A114-1FCD34DF96B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD64D08-0B5E-408B-A114-1FCD34DF96B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840D6CC3-F862-44B0-8E0C-C3DEDB80E431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840D6CC3-F862-44B0-8E0C-C3DEDB80E431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840D6CC3-F862-44B0-8E0C-C3DEDB80E431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840D6CC3-F862-44B0-8E0C-C3DEDB80E431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C39977B-492F-4326-BBC6-345E2BD7C2A2}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/nikhil
+		SccProjectUniqueName0 = web-api-library\\web-api-library.csproj
+		SccProjectName0 = web-api-library
+		SccLocalPath0 = web-api-library
+		SccProjectUniqueName1 = web-api-library-test\\web-api-library-test.csproj
+		SccProjectName1 = web-api-library-test
+		SccLocalPath1 = web-api-library-test
+		SccLocalPath2 = .
+	EndGlobalSection
+EndGlobal
